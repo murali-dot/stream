@@ -1,4 +1,4 @@
-# webcam-base64-streaming
+# stream
 Webcam live streaming with WebSockets and Base64
 ## Instalation
 ```text
